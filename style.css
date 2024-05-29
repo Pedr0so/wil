@@ -1,0 +1,19 @@
+body {
+   text-align: center;
+   font-style: Arial;
+   background-color: black;
+   margin-top: 0%;
+}
+
+
+h1 {
+   font-family: Arial;
+   color: aliceblue;
+   text-align: center;
+}
+
+img {
+   margin: auto;
+   width: 300px;
+   height: auto;
+}
